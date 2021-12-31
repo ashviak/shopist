@@ -26,7 +26,4 @@ In the framework we have 2 scenarios/ test cases,
 2. To run in headed mode (to open cypress test runner):
         npx cypress open
 
-************************************* GITHUB *************************************
-
-To get the project, we can download from the below GitHub link,
 
